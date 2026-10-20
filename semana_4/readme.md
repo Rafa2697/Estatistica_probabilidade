@@ -172,4 +172,6 @@ Variável Aleatória Contínua
 
 
 
+
+
 [Material base](https://pt.wikipedia.org/wiki/Vari%C3%A1vel_aleat%C3%B3ria)
