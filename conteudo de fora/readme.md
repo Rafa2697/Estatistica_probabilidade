@@ -102,3 +102,62 @@ E = {1,2}
 
 P(E) = n(E) / n(S) = 2/6 = 1/3 = 0,33
 
+
+# Teorema da Soma
+
+Em um experimento aleatório de espaço amostral S, dados dois eventos A, B &sub; S, temos que:
+
+
+P(A &cup; B) = P(A) + P(B) - P(A &cap; B)
+
+![Teorema da soma]({1499DB42-2000-4907-A5AE-887641759D6F}.png)
+
+![eventos]({C55D75A0-1985-4E44-993B-1F99A004644D}.png)
+
+Lançamento de dados
+S = {1,2,3,4,5,6}
+A = {3,4,5,6}
+B = {2,4,6}
+
+P (A) = 4/6 = 2/3 = 0,67 ou 67%
+P(B) = 3/6  = 1/2 = 0,5 ou 50%
+
+### União
+A &cup; B = {2,3,4,5,6}
+P(A &cup; B) = 5/6 = 0,83 = 83%
+
+### intersecção
+A &cap; B = {4,6}
+P(A &cap; B) = 2/6 = 1/3 = 0,33 = 33%
+
+![alt text]({547E5F55-D7B6-4EC6-B026-4EBF65AC7FEE}.png)
+
+## Eventos Mutuamente excludentes
+
+![eventos excludentes]({5A12A5D9-2A91-41A1-973F-8E896D903BE0}.png)
+![alt text]({7387B40A-32A7-45DB-AB88-682A876E8371}.png)
+
+
+## Teorema da soma com 3 eventos
+![Teorema da soma com 3 eventos]({B5BC4EFA-E03F-4AE7-9161-1E24B127DB7E}.png)
+
+
+# Probabilidade de evento complementar
+![alt text]({8D2A5511-E946-46DE-8EFA-D5D8BF5A6A64}.png)
+![alt text]({740B2EF4-5FF0-4B03-9014-E843A0E5FAD8}.png)
+
+Exercício - 1° Forma
+![alt text]({E70E3A12-25C7-48AF-AACC-CA8382607511}.png)
+A: carta de número ou A
+
+P(A) = 40/52 = 13/10
+
+Exercício - 2° Forma
+![alt text]({0888B2CE-8943-4F33-B6CB-9DC08712A703}.png)
+
+A: carta de figura
+
+P(A) = 12/52
+![alt text]({85FDD3AC-E8F9-4435-8BCC-430630655132}.png)
+
+

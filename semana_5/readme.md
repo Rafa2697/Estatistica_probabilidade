@@ -1,0 +1,2 @@
+# Variável aleatória contínua
+

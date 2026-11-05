@@ -175,3 +175,6 @@ Variável Aleatória Contínua
 
 
 [Material base](https://pt.wikipedia.org/wiki/Vari%C3%A1vel_aleat%C3%B3ria)
+
+
+![alt text]({A741EF2E-4107-4E22-BD78-8CF6014421D5}.png)
